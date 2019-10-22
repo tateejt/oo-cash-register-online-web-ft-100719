@@ -1,1 +1,3 @@
-class Person
+class CashRegister
+  
+end
